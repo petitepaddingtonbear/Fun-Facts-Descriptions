@@ -1,2 +1,2 @@
-# Stardew Valley Mods
-Mods for Stardew Valley v1.4+
+# Fun Facts Descriptions
+Overhauling various item descriptions with interesting and fun information!
